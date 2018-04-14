@@ -1,0 +1,1 @@
+[number, color, parity] = run_wheel(0);

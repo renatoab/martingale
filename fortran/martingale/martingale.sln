@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{9AE66E24-D2D9-4FF2-AB7F-CE79F20F2B8B}") = "martingale", "martingale\martingale.ftn95p", "{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CheckMate|.NET = CheckMate|.NET
+		CheckMate|Win32 = CheckMate|Win32
+		Debug|.NET = Debug|.NET
+		Debug|Win32 = Debug|Win32
+		Release|.NET = Release|.NET
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.CheckMate|.NET.ActiveCfg = CheckMate|.NET
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.CheckMate|.NET.Build.0 = CheckMate|.NET
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.CheckMate|Win32.ActiveCfg = CheckMate|Win32
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.CheckMate|Win32.Build.0 = CheckMate|Win32
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Debug|.NET.ActiveCfg = Debug|.NET
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Debug|.NET.Build.0 = Debug|.NET
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Debug|Win32.Build.0 = Debug|Win32
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Release|.NET.ActiveCfg = Release|.NET
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Release|.NET.Build.0 = Release|.NET
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Release|Win32.ActiveCfg = Release|Win32
+		{DFB1E787-D2D3-47B7-B2C2-985855E7AD7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
